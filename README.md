@@ -23,5 +23,4 @@ Pratiti sledeće instrukcije:
 
 * Obrisati datoteke iz `model` direktorijuma
 * Otići do `src` direktorijuma i izvršiti `python main.py --train --data_dir putanja/do/IAM`
-* Training stops after a fixed number of epochs without improvement
 * Obuka će automatski prestati nakon izvesnog broja epoch-a bez poboljšanja
